@@ -4,13 +4,12 @@
   
    <a href="https://drive.google.com/uc?export=view&id=1Z6xtB_-Z-fuTAzBDCf7urk-z2A34Cp61">
     <img src="https://drive.google.com/uc?export=view&id=1Z6xtB_-Z-fuTAzBDCf7urk-z2A34Cp61" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
-     
-      <a href="https://drive.google.com/uc?export=view&id=1_lvTRgfqagO3BUEeUdoYko3vRcpUM_z3">
+   <a href="https://drive.google.com/uc?export=view&id=1_lvTRgfqagO3BUEeUdoYko3vRcpUM_z3">
     <img src="https://drive.google.com/uc?export=view&id=1_lvTRgfqagO3BUEeUdoYko3vRcpUM_z3" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
         
-         <a href="https://drive.google.com/uc?export=view&id=1nv4qPPSa1dXwntv1kS3u74Esy3chfPQW">
+   <a href="https://drive.google.com/uc?export=view&id=1nv4qPPSa1dXwntv1kS3u74Esy3chfPQW">
     <img src="https://drive.google.com/uc?export=view&id=1nv4qPPSa1dXwntv1kS3u74Esy3chfPQW" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
            
-            <a href="https://drive.google.com/uc?export=view&id=1Xh9RnA6asU5e2ndRPB1nIGljpGp50e2l">
+   <a href="https://drive.google.com/uc?export=view&id=1Xh9RnA6asU5e2ndRPB1nIGljpGp50e2l">
     <img src="https://drive.google.com/uc?export=view&id=1Xh9RnA6asU5e2ndRPB1nIGljpGp50e2l" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
   
