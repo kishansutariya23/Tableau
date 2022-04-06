@@ -1,5 +1,5 @@
 # Click on below link to vist my work 
-<img src="https://img.icons8.com/color/452/hand-right.png"><a href="https://public.tableau.com/app/profile/sutariya.kishankumar"> Tableau public profile <a>
+<img src="https://img.icons8.com/color/48/000000/hand-right.png"><a href="https://public.tableau.com/app/profile/sutariya.kishankumar"> Tableau public profile <a>
 #### Below are some Screen shorts of my work
   
    <a href="https://drive.google.com/uc?export=view&id=1Z6xtB_-Z-fuTAzBDCf7urk-z2A34Cp61">
